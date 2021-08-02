@@ -10,7 +10,7 @@
   }
 }
 .muted {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 255, 0.5);
 }
 .responsive-iframe {
   position: relative;
@@ -48,7 +48,7 @@ blockquote cite::before {
    content: "\2014";
 }
 :target {
-  color: #fff;
+  color: #eeeeee;
 }
 /* hack.css overrides and enhancements */
 .hack li ul {
@@ -62,7 +62,7 @@ nav a.active {
   color: #fff;
 }
 a[itemprop="url"] {
-  color: #ff9800;
+  color: #0056b7;
 }
 a[itemprop="url"]:hover {
   color: #fff;
