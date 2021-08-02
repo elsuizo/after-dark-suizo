@@ -59,13 +59,13 @@ blockquote cite::before {
 }
 nav a.active {
   background-color: #ff2e88;
-  color: #fff;
+  color: #d7d7d7;
 }
 a[itemprop="url"] {
   color: #0056b7;
 }
 a[itemprop="url"]:hover {
-  color: #fff;
+  color: #d7d7d7;
 }
 a[href*="://"]::after,
 a[rel*="external"] {
@@ -95,6 +95,6 @@ article [itemprop="summary"] p {
     font-size: 1em;
   }
   .container {
-    max-width: 50rem;
+    max-width: 73rem;
   }
 }
